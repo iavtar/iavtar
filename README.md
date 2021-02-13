@@ -21,6 +21,8 @@
 [<img align="left" alt="Hibernate" width="50px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" />]
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="Jenkins" width="50px" src="https://pbs.twimg.com/profile_images/724264919634305024/DsWUbybf_400x400.jpg" />]
+[<img align="left" alt="Docker" width="50px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" />]
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
