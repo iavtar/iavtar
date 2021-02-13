@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="Spring" width="50px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />]
+[<img align="left" alt="Spring" width="50px" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png" />]
 [<img align="left" alt="Mulesoft" width="50px" src="https://pbs.twimg.com/profile_images/1268206951994847232/WFJny2pP_400x400.jpg"/>]
 [<img align="left" alt="Hibernate" width="50px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" />]
 [<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
