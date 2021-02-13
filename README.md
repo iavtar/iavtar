@@ -19,7 +19,7 @@
 [<img align="left" alt="Mulesoft" width="50px" src="https://pbs.twimg.com/profile_images/1268206951994847232/WFJny2pP_400x400.jpg"/>][mulesoft]
 [<img align="left" alt="Kafka" width="50px" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF_400x400.jpg"/>][kafka]
 [<img align="left" alt="Hibernate" width="50px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" />][hibernate]
-[<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="SQL" width="50px" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg" />][postgres]
 [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Jenkins" width="50px" src="https://pbs.twimg.com/profile_images/724264919634305024/DsWUbybf_400x400.jpg" />][jenkins]
 [<img align="left" alt="sonarqube" width="50px" src="https://pbs.twimg.com/profile_images/1224335491899760641/h404B5dU_400x400.jpg" />][sonarqube]
@@ -41,14 +41,14 @@
 [linkedin]: https://www.linkedin.com/in/iavtar/
 [java]: https://www.java.com/
 [spring]: https://spring.io
-[mulesoft]: https://www.linkedin.com/in/iavtar/
-[kafka]: https://www.linkedin.com/in/iavtar/
+[mulesoft]: https://www.mulesoft.com/
+[kafka]: https://kafka.apache.org/
 [hibernate]: https://www.linkedin.com/in/iavtar/
-[sql]: https://www.linkedin.com/in/iavtar/
-[mysql]: https://www.linkedin.com/in/iavtar/
-[jenkins]: https://www.linkedin.com/in/iavtar/
-[docker]: https://www.linkedin.com/in/iavtar/
+[postgres]: https://www.postgresql.org/
+[mysql]: https://www.mysql.com/
+[jenkins]: https://www.jenkins.io/
+[docker]: https://www.docker.com/
 [javascript]: https://www.linkedin.com/in/iavtar/
-[react]: https://www.linkedin.com/in/iavtar/
-[kubernetes]: https://www.linkedin.com/in/iavtar/
-[sonarqube]: https://www.linkedin.com/in/iavtar/
+[react]: https://reactjs.org/
+[kubernetes]: https://kubernetes.io/
+[sonarqube]: https://www.sonarqube.org/
