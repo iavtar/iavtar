@@ -39,8 +39,8 @@
   <img align="left" alt="Indra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iavtar&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/iavtar/
-[java]: https://www.linkedin.com/in/iavtar/
-[spring]: https://www.linkedin.com/in/iavtar/
+[java]: https://www.java.com/
+[spring]: https://spring.io
 [mulesoft]: https://www.linkedin.com/in/iavtar/
 [kafka]: https://www.linkedin.com/in/iavtar/
 [hibernate]: https://www.linkedin.com/in/iavtar/
