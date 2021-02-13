@@ -39,8 +39,6 @@
 
 <br />
 
-### GitHub Stats:
-
   <img align="left" alt="Indra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iavtar&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/iavtar/
