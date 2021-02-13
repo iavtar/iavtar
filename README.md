@@ -19,6 +19,7 @@
 [<img align="left" alt="Mulesoft" width="50px" src="https://pbs.twimg.com/profile_images/1268206951994847232/WFJny2pP_400x400.jpg"/>][mulesoft]
 [<img align="left" alt="Kafka" width="50px" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF_400x400.jpg"/>][kafka]
 [<img align="left" alt="Hibernate" width="50px" src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" />][hibernate]
+[<img align="left" alt="Hibernate" width="50px" src="https://maven.apache.org/images/maven-logo-black-on-white.png" />][maven]
 [<img align="left" alt="SQL" width="50px" src="https://pbs.twimg.com/profile_images/938272746328543232/kxHkAenZ_400x400.jpg" />][postgres]
 [<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Jenkins" width="50px" src="https://pbs.twimg.com/profile_images/724264919634305024/DsWUbybf_400x400.jpg" />][jenkins]
@@ -52,3 +53,4 @@
 [react]: https://reactjs.org/
 [kubernetes]: https://kubernetes.io/
 [sonarqube]: https://www.sonarqube.org/
+[maven]: https://maven.apache.org/
