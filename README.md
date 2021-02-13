@@ -43,12 +43,12 @@
 [spring]: https://spring.io
 [mulesoft]: https://www.mulesoft.com/
 [kafka]: https://kafka.apache.org/
-[hibernate]: https://www.linkedin.com/in/iavtar/
+[hibernate]: https://hibernate.org/
 [postgres]: https://www.postgresql.org/
 [mysql]: https://www.mysql.com/
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
-[javascript]: https://www.linkedin.com/in/iavtar/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [react]: https://reactjs.org/
 [kubernetes]: https://kubernetes.io/
 [sonarqube]: https://www.sonarqube.org/
