@@ -34,12 +34,10 @@
 ---
 
 <br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+### GitHub Stats:
 
   <img align="left" alt="Indra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iavtar&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/iavtar/
 [java]: https://www.linkedin.com/in/iavtar/
