@@ -51,7 +51,6 @@
 [jenkins]: https://www.jenkins.io/
 [docker]: https://www.docker.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
 [kubernetes]: https://kubernetes.io/
 [sonarqube]: https://www.sonarqube.org/
 [maven]: https://maven.apache.org/
