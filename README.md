@@ -27,7 +27,7 @@
 [<img align="left" alt="Docker" width="50px" src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" />][docker]
 [<img align="left" alt="Docker" width="50px" src="https://pbs.twimg.com/profile_images/511909265720614913/21_d3cvM_400x400.png" />][kubernetes]
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="50px" src="https://pbs.twimg.com/profile_images/1290312154537775104/AezTyTAm_400x400.jpg" />][linux]
+[<img align="left" alt="Groovy" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" />][groovy]
 [<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
@@ -54,5 +54,5 @@
 [sonarqube]: https://www.sonarqube.org/
 [maven]: https://maven.apache.org/
 [gradle]: https://gradle.org/
-[linux]: https://www.linux.org/
+[groovy]: https://groovy-lang.org/
 [terminal]: https://www.linux.org/
