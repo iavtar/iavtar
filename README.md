@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="indra singh | LinkedIn" width="22px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />][linkedin]
+[<img align="left" alt="indra singh | LinkedIn" width="40px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />][linkedin]
 
 <br />
 
