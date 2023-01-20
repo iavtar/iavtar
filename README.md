@@ -1,4 +1,4 @@
-### Hi there, I'm Indra Avatar Singh 👋
+###👋
 
 ## I'm a Software Developer, Technology Explorer and Learner
 
