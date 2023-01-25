@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Improve my algorithmic thinking
 
 ### Connect with me:
 
